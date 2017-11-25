@@ -1,0 +1,22 @@
+body{
+  font-family: sans-serif;
+  text-align: center;
+}
+h3.tropical{
+  color: #f7325e;
+}
+p.tropical{
+  color: #7dc410;
+}
+tropical{
+  font-family: fantasy;
+}
+h3.popular{
+  color: purple;
+}
+p.popular{
+  color: grey;
+}
+popular{
+  font-family: cursive;
+}
