@@ -2,21 +2,16 @@ body{
   font-family: sans-serif;
   text-align: center;
 }
-h3.tropical{
+h1,h2,h3,h4,h5,h6{
   color: #f7325e;
 }
-p.tropical{
+p{
   color: #7dc410;
 }
-tropical{
+.tropical{
   font-family: fantasy;
+
 }
-h3.popular{
-  color: purple;
-}
-p.popular{
-  color: grey;
-}
-popular{
+.popular{
   font-family: cursive;
 }
